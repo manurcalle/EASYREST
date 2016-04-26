@@ -1,9 +1,11 @@
 <resources>
-    <string name="app_name">AAAAA</string>
+    <string name="app_name">EASYREST</string>
 
     <string name="usuario">Usuario:</string>
+    <string name="TipoUsuario">Tipo Usuario:</string>
+    <string name="msgTipoUsuario">Elija Usuario</string>
     <string name="contraseña">Contraseña:</string>
-    <string name="iniciarSesion">GET</string>
+    <string name="iniciarSesion">Iniciar Sesion</string>
     <string name="title_activity_saludar">Saludar</string>
     <string name="post">POST</string>
     <string name="hello_world">Hello world!</string>
